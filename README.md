@@ -33,8 +33,8 @@ ToDo...
 
 感谢微软的大力支持
 该工程使用了以下的库
-lvgl 8.3.0 For Graphic support
-nlohmann/json For json analyze and (de)serialize
+####lvgl 8.3.0 For Graphic support
+####nlohmann/json For json analyze and (de)serialize
 感谢All喵图书馆部分成员的友好言论，没有了你们我在这条路上能够有心情继续走下去
 感谢明日方舟 - 萌新保护中心的鼎立支持，虽然没有收益但是我非常开心
 感谢代打工具人小新，没有这位老哥我高三就没了也就没有这个工程了
