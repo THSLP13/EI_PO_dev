@@ -1,0 +1,21 @@
+﻿{
+    "fileType": "LEVEL_INFO_STRUCT",
+    "fileVersion": "0.9.4",
+    "firstLevelName": "intro_0",
+    "package": [
+      {
+        "id": "intro_0",
+        "name": "???",
+        "type": "IntroStory",
+        "path": "data\\level\\intro_0.json",
+        "md5": ""
+      },
+      {
+        "id": "",
+        "name": "endFlag",
+        "type": "",
+        "path": "",
+        "md5": ""
+      }
+    ]
+}

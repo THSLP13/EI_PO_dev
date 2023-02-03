@@ -1,0 +1,23 @@
+﻿{
+  "packageType": "MAINLINE_STORY",
+  "packageVersion": "0.9.4",
+  "fileType": "PACKAGE_INFO",
+  "fileVersion": "0.9.4",
+  "file": [
+    {
+      "fileName": "levelStructure.json",
+      "filePath": "data",
+      "fileMD5": ""
+    },
+    {
+      "fileName": "resStructure.json",
+      "filePath": "data",
+      "fileMD5": ""
+    },
+    {
+      "fileName": "endFlag",
+      "filePath": "",
+      "fileMD5": ""
+    }
+  ]
+}

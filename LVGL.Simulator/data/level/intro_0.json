@@ -1,0 +1,17 @@
+﻿{
+  "fileType": "LEVEL",
+  "fileVersion": "0.9.4",
+  "first_stepid": "begin",
+  "step": [
+    {
+      "command": [
+        "note begin也算一个关卡步骤",
+        "note 如果你只是把begin作为跳板请直接step到下一个id",
+        "note 如果你甚至不需要这一关请直接level到下一个id",
+        "endCommand"
+      ],
+      "saveAble": true,
+      "step_id": "begin"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="lv_conf.h" />
+    <ClInclude Include="lv_drv_conf.h" />
+    <ClInclude Include="ui\ui.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="ui\ui_helpers.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="core\Core.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="core\thread.h">
+      <Filter>core</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\abi_macros.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\adl_serializer.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\call_std\begin.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\input\binary_reader.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\output\binary_writer.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\byte_container_with_subtype.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\cpp_future.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\detected.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\call_std\end.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\exceptions.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\conversions\from_json.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\hash.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\thirdparty\hedley\hedley.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\thirdparty\hedley\hedley_undef.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\identity_tag.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\input\input_adapters.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\iterators\internal_iterator.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\is_sax.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\iterators\iter_impl.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\iterators\iteration_proxy.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\iterators\iterator_traits.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\json.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\json_fwd.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\json_pointer.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\json_ref.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\iterators\json_reverse_iterator.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\input\json_sax.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\input\lexer.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\macro_scope.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\macro_unscope.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\ordered_map.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\output\output_adapters.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\input\parser.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\input\position_t.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\iterators\primitive_iterator.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\output\serializer.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\std_fs.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\string_concat.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\string_escape.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\conversions\to_chars.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\conversions\to_json.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\type_traits.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\value_t.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="nlohmann\detail\meta\void_t.hpp">
+      <Filter>json</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="LVGL.Simulator.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Mile.Project.Properties.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LVGL.Simulator.cpp" />
+    <ClCompile Include="ui\ui.c">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\ui_events.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\ui_font_siyuan16v2.c">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\ui_helpers.c">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="ui\ui_img_head_png.c">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="core\Core.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+    <ClCompile Include="core\thread.cpp">
+      <Filter>core</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LVGL.Simulator.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="LVGL.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="freetype.props" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ui">
+      <UniqueIdentifier>{c39b785d-9f3c-4353-820f-4656fe981510}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="core">
+      <UniqueIdentifier>{61fa8d82-acfc-4308-a11d-39c29633f98c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="json">
+      <UniqueIdentifier>{34800ed7-8fc4-4bc2-8ce7-0e268f22a625}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

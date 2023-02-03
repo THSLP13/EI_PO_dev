@@ -1,0 +1,20 @@
+﻿{
+  "fileType": "RESOURCE_LIST",
+  "fileVersion": "0.9.4",
+  "file": [
+    {
+      "id": "Icon_Bokukakei",
+      "name": "沐歌溪的头像",
+      "type": "png",
+      "path": "res\\icon\\Icon_Bokukakei.png",
+      "md5": "9D61304E"
+    },
+    {
+      "id": "",
+      "name": "endFlag",
+      "type": "",
+      "path": "",
+      "md5": ""
+    }
+  ]
+}
